@@ -164,7 +164,7 @@ function App() {
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.8, delay: 0.4 }}
           >
-            A união entre qualidade e sustentabilidade
+            A união entre qualidade e inovação
           </motion.p>
           
           <motion.div
@@ -224,10 +224,10 @@ function App() {
           >
             <Badge className="mb-4 bg-primary/10 text-primary">Quem Somos</Badge>
             <h2 className="text-4xl md:text-5xl font-bold mb-6">
-              Comunicação que <span className="text-gradient">transforma</span>
+              Onde propósito <span className="text-gradient">encontra ação</span>
             </h2>
             <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
-              Somos uma empresa de comunicação comprometida com a sustentabilidade. 
+              Somos uma empresa de comunicação comprometida com o futuro. 
               Todo trabalho que realizamos para nossos clientes é revertido em compensação de carbono, 
               plantando árvores e contribuindo para um futuro mais verde.
             </p>
@@ -255,12 +255,12 @@ function App() {
               className="space-y-6"
             >
               <motion.p variants={fadeInUp} className="text-lg text-muted-foreground">
-                Nosso propósito é utilizar a comunicação e o marketing de forma sustentável e responsável, 
-                promovendo um mundo mais consciente e equilibrado, onde as pessoas e o planeta possam prosperar juntos.
+                Nosso propósito é utilizar a comunicação e o marketing de forma consciente e responsável, 
+                promovendo um mundo mais equilibrado, onde as pessoas e o planeta possam prosperar juntos.
               </motion.p>
               
               <motion.p variants={fadeInUp} className="text-lg text-muted-foreground">
-                Desenvolvemos soluções de comunicação e marketing que sejam sustentáveis, criativas e inovadoras, 
+                Desenvolvemos soluções de comunicação e marketing que sejam conscientes, criativas e inovadoras, 
                 visando o bem-estar das pessoas e do planeta. Com mais de 20 anos de experiência no mercado.
               </motion.p>
 
@@ -300,13 +300,13 @@ function App() {
                 {[
               {
                 icon: <Leaf className="w-12 h-12 text-primary" />,
-                title: "Marketing Sustentável",
-                description: "Estratégias de marketing que respeitam o meio ambiente e promovem práticas sustentáveis."
+                title: "Marketing Consciente",
+                description: "Estratégias de marketing que respeitam o meio ambiente e promovem práticas responsáveis."
               },
               {
                 icon: <Users className="w-12 h-12 text-primary" />,
                 title: "Comunicação Corporativa",
-                description: "Desenvolvemos a comunicação interna e externa da sua empresa com foco em sustentabilidade."
+                description: "Desenvolvemos a comunicação interna e externa da sua empresa com foco em responsabilidade social."
               },
               {
                 icon: <Target className="w-12 h-12 text-primary" />,
@@ -353,7 +353,7 @@ function App() {
               <motion.p variants={fadeInUp} className="text-lg text-muted-foreground">
                 Todo trabalho que realizamos para nossos clientes é revertido em compensação de carbono. 
                 Cada projeto gera o plantio de árvores, contribuindo para a neutralização das emissões 
-                e para um futuro mais sustentável.
+                e para um futuro mais verde.
               </motion.p>
               
               <motion.p variants={fadeInUp} className="text-lg text-muted-foreground">
@@ -393,7 +393,7 @@ function App() {
               Nosso compromisso com o <span className="text-gradient">planeta</span>
             </h2>
             <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
-              Cada projeto que desenvolvemos contribui para um futuro mais sustentável. 
+              Cada projeto que desenvolvemos contribui para um futuro mais consciente. 
               Nosso trabalho gera impacto positivo real no meio ambiente.
             </p>
           </motion.div>
@@ -428,7 +428,7 @@ function App() {
                   viewport={{ once: true }}
                   transition={{ duration: 1, delay: 0.5 }}
                 >
-                  +400
+                  + de 400
                 </motion.div>
                 <motion.p
                   variants={fadeInUp}
@@ -454,7 +454,7 @@ function App() {
                   <h3 className="text-xl font-bold text-gray-800">Certificação Carbono Zero</h3>
                 </div>
                 <p className="text-muted-foreground">
-                  Nossos projetos de comunicação são desenvolvidos com práticas sustentáveis, 
+                  Nossos projetos de comunicação são desenvolvidos com práticas conscientes, 
                   contribuindo para a neutralização de carbono e o plantio de árvores nativas.
                 </p>
               </motion.div>
