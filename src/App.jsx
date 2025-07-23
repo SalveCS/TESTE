@@ -554,7 +554,6 @@ function App() {
               © 2025 SALVE. Todos os direitos reservados.
             </p>
             <div className="flex flex-col md:flex-row gap-2 md:gap-4 mt-4">
-              <a href="/politica-de-privacidade.html" target="_blank" rel="noopener noreferrer" className="text-white opacity-75 hover:opacity-100 transition-opacity duration-300">Política de Privacidade</a>
               <a href="/termos-de-uso.html" target="_blank" rel="noopener noreferrer" className="text-white opacity-75 hover:opacity-100 transition-opacity duration-300">Termos de Uso</a>
             </div>
           </motion.div>
